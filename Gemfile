@@ -11,6 +11,7 @@ gem 'cocoon'
 gem 'kaminari'
 gem 'rest-client'
 gem 'libxml-ruby'
+gem 'mysql2'
 gem 'sqlite3'
 gem 'puma'
 
